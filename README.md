@@ -2,7 +2,8 @@
 
  🔭 I’m currently working on Xiamen
  
- 🌱 I’m currently learning Spring-Cloud-Alibaba, Flink,Rocketmq,Seata       Or Skywaking ?
+ 🌱 I’m currently learning Spring-Cloud-Alibaba, Flink,Rocketmq,Seata .
+ Maybe some time to learn about skywalking?
 
 👯 Blog when I was a student： 
 https://www.jianshu.com/u/22a3ef9079b1
@@ -44,5 +45,6 @@ The current issue discussions are:
 - [feature] dolphinscheduler dag version control: https://github.com/apache/dolphinscheduler/issues/10387
 
 - [feature] shardingsphere(for  JSR-310 related classes in IntervalShardingAlgorithm) : https://github.com/apache/shardingsphere/issues/17752
+- [feature] skywalking-banyandb monitor : https://github.com/apache/skywalking/issues/9048
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
