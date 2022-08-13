@@ -52,6 +52,6 @@ The current issue discussions are:
 - [feature] skywalking-banyandb monitor : https://github.com/apache/skywalking/issues/9048
 
 
-😄 Hobby: I love watching anime, especially  << Your Lie in April >>
+😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
 ⚡ Fun fact: After the college entrance examination, I chose software engineering, who knows because I watched << Fight! System Engineer>>
