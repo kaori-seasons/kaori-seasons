@@ -36,9 +36,8 @@ The current issue discussions are:
      
 - [feature] dlink metadata:  https://github.com/DataLinkDC/dlink/issues/681
 
-- [feature] dolphinscheduler: https://github.com/apache/dolphinscheduler/issues/10387
+- [feature] dolphinscheduler dag version control: https://github.com/apache/dolphinscheduler/issues/10387
 
-- [feature] skywaking-banyandb: https://github.com/apache/skywalking/issues/9048
-
+- [feature] shardingsphere(for  JSR-310 related classes in IntervalShardingAlgorithm) : https://github.com/apache/shardingsphere/issues/17752
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
