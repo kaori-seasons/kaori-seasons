@@ -2,7 +2,7 @@
 
  🔭 I’m currently working on Xiamen
  
- 🌱 I’m currently learning Spring-Cloud-Alibaba, Flink,Rocketmq,Seata
+ 🌱 I’m currently learning Spring-Cloud-Alibaba, Flink,Rocketmq,Seata       Or Skywaking ?
 
 👯 Blog when I was a student： 
 https://www.jianshu.com/u/22a3ef9079b1
