@@ -50,4 +50,4 @@ The current issue discussions are:
 
 😄 Pronouns: I love watching anime, especially  << Your Lie in April >>
  
-⚡ Fun fact: When the college entrance examination was over, I chose software engineering as a major. Who knew I was reading the novel <<Struggle! System Engineer>>?
+⚡ Fun fact: After the college entrance examination, I chose software engineering, who knows because I watched << Fight! System Engineer>>
