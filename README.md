@@ -12,6 +12,7 @@ yuque: https://www.yuque.com/chengxingyuan
 Features that have been implemented or have entered the POC stage:
 
 - dubbo-go-pixiu benchmark : https://github.com/dubbo-go-pixiu/benchmark/pull/1
+- dubbgo-rest protocol: https://github.com/apache/dubbo-go/pull/1855
 
 - Spring Cloud-Alibaba Atuo-Test: https://github.com/alibaba/spring-cloud-alibaba/issues/2705
 
