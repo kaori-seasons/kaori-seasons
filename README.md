@@ -3,7 +3,8 @@
  🔭 I’m currently working on Xiamen
  
  🌱 I’m currently learning Spring-Cloud-Alibaba, Flink,Rocketmq,Seata
- 
+
+Blog when I was a student： https://www.jianshu.com/u/22a3ef9079b1
 👯 my blog:
 
 juejin: https://juejin.cn/user/2875978147955741
