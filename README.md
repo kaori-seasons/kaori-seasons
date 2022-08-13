@@ -46,5 +46,7 @@ The current issue discussions are:
 
 - [feature] shardingsphere(for  JSR-310 related classes in IntervalShardingAlgorithm) : https://github.com/apache/shardingsphere/issues/17752
 - [feature] skywalking-banyandb monitor : https://github.com/apache/skywalking/issues/9048
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+😄 Pronouns: I love watching anime, especially <<Your Lie in April >>
+⚡ Fun fact: When the college entrance examination was over, I chose software engineering as a major. Who knew I was reading the novel <<Struggle! System Engineer>>?
