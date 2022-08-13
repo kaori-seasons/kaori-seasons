@@ -15,7 +15,7 @@ Features that have been implemented or have entered the POC stage:
 - dubbo-go-pixiu benchmark : https://github.com/dubbo-go-pixiu/benchmark/pull/1
 - dubbgo-rest protocol: https://github.com/apache/dubbo-go/pull/1855
 
-- Spring Cloud-Alibaba Atuo-Test: https://github.com/alibaba/spring-cloud-alibaba/issues/2705
+- Spring Cloud-Alibaba Atuo-Test (Asoc Mentor): https://github.com/alibaba/spring-cloud-alibaba/issues/2705
 
 - flink
   - The 3rd runner-up of the first fink hackthon (lightweight batch-flow integrated operator) :https://github.com/flink-china/flink-forward-asia-hackathon-2021/issues/6
