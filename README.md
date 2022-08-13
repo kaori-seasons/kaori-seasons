@@ -4,9 +4,11 @@
  
  🌱 I’m currently learning Spring-Cloud-Alibaba, Flink,Rocketmq,Seata
 
-Blog when I was a student： https://www.jianshu.com/u/22a3ef9079b1
+👯 Blog when I was a student： 
+https://www.jianshu.com/u/22a3ef9079b1
 
-👯 my blog:
+
+👯 my blog after work:
 
 juejin: https://juejin.cn/user/2875978147955741
 
