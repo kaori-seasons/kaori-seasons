@@ -28,6 +28,7 @@ PR in progress：
 
 - rocketmq Admin API concurrency optimization: https://github.com/apache/rocketmq/pull/4393
 - seata-go improve resourcemanager test: https://github.com/seata/seata-go/pull/192
+- shardingsphere(Support oracle sql Procedure): https://github.com/apache/shardingsphere/pull/18228
 
 The current issue discussions are:
 
