@@ -22,6 +22,8 @@ Features that have been implemented or have entered the POC stage:
 
 - Spring Cloud-Alibaba Atuo-Test (Asoc Mentor): https://github.com/alibaba/spring-cloud-alibaba/issues/2705
 
+- Spring Cloud Alibaba OpenSergo Starter: https://github.com/alibaba/spring-cloud-alibaba/pull/2523
+
 - flink
   - The 3rd runner-up of the first fink hackthon (lightweight batch-flow integrated operator) :https://github.com/flink-china/flink-forward-asia-hackathon-2021/issues/6
 
