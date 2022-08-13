@@ -1,4 +1,5 @@
-👋 Hi everyone, I'm a bit of a weird programmer who thinks writing code is a fun thing to do.
+👋 Hi everyone, My name is Xingyuan Cheng.
+I'm a bit of a weird programmer who thinks writing code is a fun thing to do.
 
  🔭 I’m currently working on Xiamen
  
