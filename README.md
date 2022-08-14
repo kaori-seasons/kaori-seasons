@@ -55,3 +55,7 @@ The current issue discussions are:
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
 ⚡ Fun fact: After the college entrance examination, I chose software engineering, who knows because I watched << Fight! System Engineer>>
+
+
+
+LeetCode(is a rubbish):  https://leetcode.cn/u/complone/
