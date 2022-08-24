@@ -34,6 +34,7 @@ Features that have been implemented or have entered the POC stage:
 PR in progress：
 
 - rocketmq Admin API concurrency optimization: https://github.com/apache/rocketmq/pull/4393
+- rocketmq Support Protobuf Schema : https://github.com/apache/rocketmq-schema-registry/issues/30
 - shardingsphere(Support oracle sql Procedure): https://github.com/apache/shardingsphere/pull/18228
 
 The current issue discussions are:
