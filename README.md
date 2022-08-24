@@ -28,8 +28,6 @@ Features that have been implemented or have entered the POC stage:
 
 - flink
   - The 3rd runner-up of the first fink hackthon (lightweight batch-flow integrated operator) :https://github.com/flink-china/flink-forward-asia-hackathon-2021/issues/6
-
-  - Custom monitoring metrics sdk based on flink: https://github.com/complone/custom-metrics-sdk
      
   - Flink-table-store related PR: https://github.com/apache/flink-table-store/pulls?q=is%3Apr+is%3Aclosed+complone
 
