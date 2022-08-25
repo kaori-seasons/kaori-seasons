@@ -38,23 +38,7 @@ PR in progress：
 - rocketmq Support Protobuf Schema : https://github.com/apache/rocketmq-schema-registry/issues/30
 - shardingsphere(Support oracle sql Procedure): https://github.com/apache/shardingsphere/pull/18228
 
-The current issue discussions are:
-
-📫 issue:
-
-     
-- [feature] dlink metadata:  https://github.com/DataLinkDC/dlink/issues/681
-
-- [feature] dolphinscheduler dag version control: https://github.com/apache/dolphinscheduler/issues/10387
-
-- [feature] shardingsphere(for  JSR-310 related classes in IntervalShardingAlgorithm) : https://github.com/apache/shardingsphere/issues/17752
-- [feature] skywalking-banyandb monitor : https://github.com/apache/skywalking/issues/9048
-
 
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
 ⚡ Fun fact: After the college entrance examination, I chose software engineering, who knows because I watched << Fight! System Engineer>>
-
-
-
-LeetCode(Occasionally write questions):  https://leetcode.cn/u/complone/
