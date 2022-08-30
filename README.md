@@ -33,7 +33,7 @@ PR in progress：
 - rocketmq Admin API concurrency optimization: https://github.com/apache/rocketmq/pull/4393
 - rocketmq doc improve: https://docs.qq.com/sheet/DUnZqUmJQQlNFbUtC?tab=j2c9uc&viewId=vg6VYw
 - rocketmq Support Protobuf Schema : https://github.com/apache/rocketmq-schema-registry/issues/30
-- shardingsphere(Support oracle sql Procedure): https://github.com/apache/shardingsphere/pull/18228
+- Rocketmq producer side supports idempotency: https://github.com/apache/rocketmq/issues/4933
 
 
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
