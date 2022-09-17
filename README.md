@@ -35,6 +35,10 @@ PR in progress：
 - rocketmq Support Protobuf Schema : https://github.com/apache/rocketmq-schema-registry/issues/30
 - Rocketmq producer side supports idempotency: https://github.com/apache/rocketmq/issues/4933
 
+TODO:
+
+seata-go: https://transaction.yuque.com/lq4znd/go05np/obhty9#yuiv6ftmfvtqv2bdf9s0qgyho8dvbk66
+
 
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
