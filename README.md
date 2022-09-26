@@ -39,7 +39,9 @@ TODO:
 
 seata-go: https://transaction.yuque.com/lq4znd/go05np/obhty9#yuiv6ftmfvtqv2bdf9s0qgyho8dvbk66
 
-
+- seata-go monitor: https://github.com/seata/seata-go/issues/144
+- 【AT】build undo log by delete target SQL: https://github.com/seata/seata-go/issues/220
+- 【AT】add undo log manager-insert func : https://github.com/seata/seata-go/issues/216
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
 ⚡ Fun fact: After the college entrance examination, I chose software engineering, who knows because I watched << Fight! System Engineer>>
