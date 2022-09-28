@@ -33,7 +33,7 @@ PR in progress：
 - rocketmq Admin API concurrency optimization: https://github.com/apache/rocketmq/pull/4393
 - rocketmq dynamic log level change: https://github.com/apache/rocketmq/pull/5033
 - rocketmq Support Protobuf Schema : https://github.com/apache/rocketmq-schema-registry/issues/30
-- Rocketmq producer side supports idempotency: https://github.com/apache/rocketmq/issues/4933
+- Rocketmq producer side supports idempotency: https://docs.google.com/document/d/1nResLevPbeGmKwSQiId_jw0tfBhJtoPZTduOQL3qxNg/edit?usp=sharing
 
 TODO:
 
