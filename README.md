@@ -35,13 +35,6 @@ PR in progress：
 - rocketmq Support Protobuf Schema : https://github.com/apache/rocketmq-schema-registry/issues/30
 - Rocketmq producer side supports idempotency: https://docs.google.com/document/d/1nResLevPbeGmKwSQiId_jw0tfBhJtoPZTduOQL3qxNg/edit?usp=sharing
 
-TODO:
-
-seata-go: https://transaction.yuque.com/lq4znd/go05np/obhty9#yuiv6ftmfvtqv2bdf9s0qgyho8dvbk66
-
-- seata-go monitor: https://github.com/seata/seata-go/issues/144
-- 【AT】build undo log by delete target SQL: https://github.com/seata/seata-go/issues/220
-- 【AT】add undo log manager-insert func : https://github.com/seata/seata-go/issues/216
 
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
