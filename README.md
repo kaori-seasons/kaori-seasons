@@ -4,8 +4,9 @@ I'm a bit of a weird programmer who thinks writing code is a fun thing to do.
 
  🔭 I’m currently working on Xiamen
  
- 🌱 I’m currently learning Spring-Cloud-Alibaba, Flink,Rocketmq,Seata .
- Maybe some time to learn about skywalking?
+ 🌱 I’m currently learning Spring-Cloud-Alibaba, Flink,Rocketmq,Seata 
+ 
+ focus on rocketmq and hudi
 
 👯 Blog when I was a student： 
 https://www.jianshu.com/u/22a3ef9079b1
