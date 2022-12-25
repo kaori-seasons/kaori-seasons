@@ -28,6 +28,10 @@ PR in progress：
 - rocketmq Support Protobuf Schema : https://github.com/apache/rocketmq-schema-registry/issues/30
 - Rocketmq producer side supports idempotency(Need to find time for a meeting to confirm): https://docs.google.com/document/d/1nResLevPbeGmKwSQiId_jw0tfBhJtoPZTduOQL3qxNg/edit?usp=sharing
 
+- hudi metrics enhance:
+  - background: https://github.com/apache/hudi/issues/6984
+  - metrics sorting: https://issues.apache.org/jira/browse/HUDI-2141
+
 
 
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
