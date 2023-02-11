@@ -14,7 +14,7 @@ juejin: https://juejin.cn/user/2875978147955741
 
 yuque: https://www.yuque.com/chengxingyuan
 
-fastjson: [support json diff](https://github.com/alibaba/fastjson2/pull/1036)
+fastjson: [[feature] support json diff](https://github.com/alibaba/fastjson2/pull/1036)
 
 - The 3rd runner-up of the first fink hackthon (lightweight batch-flow integrated operator) :https://github.com/flink-china/flink-forward-asia-hackathon-2021/issues/6
 PR in progress：
