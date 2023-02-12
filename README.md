@@ -16,6 +16,8 @@ yuque: https://www.yuque.com/chengxingyuan
 
 fastjson: [[feature] support json diff](https://github.com/alibaba/fastjson2/pull/1036)
 
+oceanbase hackthon : [miniob buffer pool](https://github.com/mattisonchao/miniob/commit/928234b42553fe00f66fce0eab2a45e6a6f803be)
+
 - The 3rd runner-up of the first fink hackthon (lightweight batch-flow integrated operator) :https://github.com/flink-china/flink-forward-asia-hackathon-2021/issues/6
 PR in progress：
 
