@@ -16,7 +16,9 @@ yuque: https://www.yuque.com/chengxingyuan
 
 fastjson: [[feature] support json diff](https://github.com/alibaba/fastjson2/pull/1036)
 
-dubbo-go: [rest protocol support](https://github.com/apache/dubbo-go/pull/1855)
+dubbo: 
+   - [rest protocol support](https://github.com/apache/dubbo-go/pull/1855)
+   - [ExpressionRouter support](https://github.com/apache/dubbo/pull/11299)
 
 oceanbase hackthon : [miniob buffer pool](https://github.com/mattisonchao/miniob/commit/928234b42553fe00f66fce0eab2a45e6a6f803be)
 
