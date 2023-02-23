@@ -23,7 +23,9 @@ dubbo:
 
 oceanbase hackthon : [miniob buffer pool](https://github.com/mattisonchao/miniob/commit/928234b42553fe00f66fce0eab2a45e6a6f803be)
 
-fink hackthon :[lightweight batch-flow integrated operator](https://github.com/flink-china/flink-forward-asia-hackathon-2021/issues/6)
+fink 
+- hackthon :[lightweight batch-flow integrated operator](https://github.com/flink-china/flink-forward-asia-hackathon-2021/issues/6)
+- batch sql rule optimize: https://github.com/apache/flink/pull/21997
 
 PR in progress：
 
