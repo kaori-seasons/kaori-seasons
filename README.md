@@ -28,7 +28,7 @@ fink
 - batch sql rule optimize: https://github.com/apache/flink/pull/21997
 
 spring-cloud-alibaba
-Support Opensergo to access SCA: https://github.com/alibaba/spring-cloud-alibaba/pull/2523
+- Support Opensergo to access SCA: https://github.com/alibaba/spring-cloud-alibaba/pull/2523
 
 PR in progress：
 
