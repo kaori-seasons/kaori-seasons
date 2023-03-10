@@ -39,7 +39,6 @@ PR in progress：
 - rocketmq dynamic log level change: https://github.com/apache/rocketmq/pull/5033
 
 - rocketmq producer side supports idempotency(Need to find time for a meeting to confirm): https://docs.google.com/document/d/1nResLevPbeGmKwSQiId_jw0tfBhJtoPZTduOQL3qxNg/edit?usp=sharing
-- rocketmq5.0 and spring integration: https://github.com/apache/rocketmq-spring/issues/516
 
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
