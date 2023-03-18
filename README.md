@@ -38,7 +38,7 @@ PR in progress：
 
 - rocketmq dynamic log level change: https://github.com/apache/rocketmq/pull/5033
 
-- rocketmq producer side supports idempotency : https://github.com/complone/rocketmq-enhance-client
+- rocketmq producer side supports exactly-once : https://github.com/complone/rocketmq-enhance-client
 
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
