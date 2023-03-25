@@ -28,17 +28,17 @@ flink:
 - batch sql rule optimize: https://github.com/apache/flink/pull/21997
 
 spring-cloud-alibaba
-- Support Opensergo to access SCA: https://github.com/alibaba/spring-cloud-alibaba/pull/2523
+- [Support Opensergo to access SCA](https://github.com/alibaba/spring-cloud-alibaba/pull/2523)
 
 rocketmq：
 
-- rocketmq Support Protobuf Schema : https://github.com/apache/rocketmq-schema-registry/pull/53
+- [rocketmq Support Protobuf Schema](https://github.com/apache/rocketmq-schema-registry/pull/53)
 
-- rocketmq Admin API concurrency optimization: https://github.com/apache/rocketmq/pull/4393
+- [rocketmq Admin API concurrency optimization](https://github.com/apache/rocketmq/pull/4393)
 
-- rocketmq dynamic log level change: https://github.com/apache/rocketmq/pull/5033
+- [rocketmq dynamic log level change](https://github.com/apache/rocketmq/pull/5033)
 
-- rocketmq producer side supports exactly-once : https://github.com/complone/rocketmq-enhance-client
+- [rocketmq producer side supports exactly-once](https://github.com/complone/rocketmq-enhance-client)
 
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
