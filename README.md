@@ -20,6 +20,7 @@ dubbo:
    - [rest protocol support](https://github.com/apache/dubbo-go/pull/1855)
    - [ExpressionRouter support](https://github.com/apache/dubbo/pull/11299)
    - [dubbo2.x metrcis support](https://github.com/apache/dubbo/issues/11276)
+   - [Gsoc Refactor http layer](https://shimo.im/docs/L9kBMWK67bCzjXqK/)
 
 oceanbase hackthon : [miniob buffer pool](https://github.com/mattisonchao/miniob/commit/928234b42553fe00f66fce0eab2a45e6a6f803be)
 
