@@ -27,6 +27,7 @@ oceanbase hackthon : [miniob buffer pool](https://github.com/mattisonchao/miniob
 flink:
 - hackthon :[lightweight batch-flow integrated operator](https://github.com/flink-china/flink-forward-asia-hackathon-2021/issues/6)
 - batch sql rule optimize: https://github.com/apache/flink/pull/21997
+- support oracle catalog: https://github.com/apache/flink/pull/22229
 
 spring-cloud-alibaba
 - [Support Opensergo to access SCA](https://github.com/alibaba/spring-cloud-alibaba/pull/2523)
