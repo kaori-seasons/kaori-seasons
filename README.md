@@ -40,7 +40,7 @@ rocketmq：
 
 - [rocketmq dynamic log level change](https://github.com/apache/rocketmq/pull/5033)
 
-- [rocketmq producer side supports exactly-once](https://github.com/complone/rocketmq-enhance-client)
+- [rocketmq producer side supports exactly-once](https://github.com/complone/rocketmq-enhance-client) : [discuss thread](https://lists.apache.org/thread/3zhjq72p1j2zmcsrt507gqq0zs3nb2bt)
 
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
