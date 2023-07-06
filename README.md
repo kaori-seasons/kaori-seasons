@@ -34,13 +34,12 @@ spring-cloud-alibaba
 
 rocketmq：
 
-- [rocketmq Support Protobuf Schema](https://github.com/apache/rocketmq-schema-registry/pull/53)
 
 - [rocketmq Admin API concurrency optimization](https://github.com/apache/rocketmq/pull/4393)
 
 - [rocketmq dynamic log level change](https://github.com/apache/rocketmq/pull/5033)
 
-- [rocketmq producer side supports exactly-once](https://github.com/complone/rocketmq-enhance-client) : [discuss thread](https://lists.apache.org/thread/3zhjq72p1j2zmcsrt507gqq0zs3nb2bt)
+- [rocketmq producer side supports exactly-once](https://github.com/kaori-seansons/rocketmq-enhance-client) : [discuss thread](https://lists.apache.org/thread/3zhjq72p1j2zmcsrt507gqq0zs3nb2bt)
 
 😄 Hobby: I love watching anime, especially  << 四月は君の嘘 >>
  
