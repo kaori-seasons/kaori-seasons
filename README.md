@@ -16,7 +16,7 @@ yuque: https://www.yuque.com/chengxingyuan
 
 fastjson: [[feature] support json diff](https://github.com/alibaba/fastjson2/pull/1036)
 
-calcite: [Support Gremlin Adapter]([https://issues.apache.org/jira/browse/CALCITE-6171](https://lists.apache.org/thread/s0cg1v0fqg84wxnq0gb0kyrb5074gxjh))
+calcite: [Support Gremlin Adapter](https://lists.apache.org/thread/s0cg1v0fqg84wxnq0gb0kyrb5074gxjh)
 
 dubbo: 
    - [rest protocol support](https://github.com/apache/dubbo-go/pull/1855)
