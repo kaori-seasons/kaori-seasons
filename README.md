@@ -12,7 +12,7 @@ yuque: https://www.yuque.com/chengxingyuan
 
 fastjson: [support json diff](https://github.com/alibaba/fastjson2/pull/1036)
 
-calcite: [Support Gremlin Adapter](https://lists.apache.org/thread/s0cg1v0fqg84wxnq0gb0kyrb5074gxjh)
+calcite: [Support Gremlin Adapter](https://github.com/apache/calcite/pull/3606)
 
 dubbo: 
    - [ExpressionRouter support](https://github.com/apache/dubbo/pull/11299)
