@@ -8,6 +8,8 @@ I'm a bit of a weird programmer who thinks writing code is a fun thing to do.
 
 juejin: https://juejin.cn/user/2875978147955741
 
+feishu: https://uke4ml20ix.feishu.cn/wiki/XFAlwAPVfixn5rkwmvEcNPhinWg
+
 yuque: https://www.yuque.com/chengxingyuan
 
 fastjson: [support json diff](https://github.com/alibaba/fastjson2/pull/1036)
