@@ -21,6 +21,8 @@ calcite: [Support Gremlin Adapter](https://github.com/apache/calcite/pull/3606)
 
 工业仿真AI Agent workflow多轮对话框架: https://juejin.cn/post/7519688537467535370
 
+基于 lightrag的故障知识问答系统: https://github.com/kaori-seasons/lightrag-knowledge-classficision
+
 
 
 
