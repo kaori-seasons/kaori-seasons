@@ -22,6 +22,7 @@ calcite: [Support Gremlin Adapter](https://github.com/apache/calcite/pull/3606)
   - 后端: https://github.com/kaori-seasons/marking-backend
 
 工业仿真AI Agent workflow多轮对话框架: https://juejin.cn/post/7519688537467535370
+
 多智能体的chatbi: https://github.com/kaori-seasons/mutli-agent-bi
 
 基于 lightrag的故障知识问答系统: https://github.com/kaori-seasons/lightrag-knowledge-classficision
