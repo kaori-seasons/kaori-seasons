@@ -10,6 +10,9 @@ I'm a bit of a weird programmer who thinks writing code is a fun thing to do.
 
 - zhihu:https://www.zhihu.com/people/luo-yang-32-78
 
+Technical consultant
+- https://brandeal.ai/
+
 运营营销引擎作者: 
   - 前端: https://github.com/kaori-seasons/marking-frontend
   - 后端: https://github.com/kaori-seasons/marking-backend
