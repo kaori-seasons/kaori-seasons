@@ -13,6 +13,8 @@ I'm a bit of a weird programmer who thinks writing code is a fun thing to do.
 Technical consultant
 - https://brandeal.ai/
 
+- Ray Data CBO: https://github.com/ray-project/ray/issues/61477
+
 运营营销引擎作者: 
   - 前端: https://github.com/kaori-seasons/marking-frontend
   - 后端: https://github.com/kaori-seasons/marking-backend
