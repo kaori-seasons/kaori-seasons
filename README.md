@@ -2,6 +2,9 @@
 
 I'm a bit of a weird programmer who thinks writing code is a fun thing to do.
 
+<img width="1440" height="1084" alt="59403833fed834d49fe67c2a76e8f038" src="https://github.com/user-attachments/assets/2fc1b618-8699-4e12-a3e0-535962bcfc4c" />
+
+
  🔭 I’m currently working on Xiamen
 
 👯 my blog after work:
@@ -18,7 +21,6 @@ I'm a bit of a weird programmer who thinks writing code is a fun thing to do.
 
 多智能体的chatbi: https://github.com/kaori-seasons/mutli-agent-bi
 
-基于 lightrag的故障知识问答系统: https://github.com/kaori-seasons/lightrag-knowledge-classficision
 
 
 
