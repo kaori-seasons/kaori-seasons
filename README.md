@@ -15,6 +15,7 @@ Technical consultant
 
 - Ray Data CBO: https://github.com/ray-project/ray/issues/61477
 - Doris 3.0 Cluster Snapshot Backup and Restore : https://github.com/apache/doris/pull/61465
+- Doris 3D Coordinate Retrieval: https://github.com/apache/doris/pull/68693
 
 运营营销引擎作者: 
   - 前端: https://github.com/kaori-seasons/marking-frontend
