@@ -21,8 +21,6 @@ Technical consultant
   - 前端: https://github.com/kaori-seasons/marking-frontend
   - 后端: https://github.com/kaori-seasons/marking-backend
 
-工业仿真AI Agent workflow多轮对话框架: https://juejin.cn/post/7519688537467535370
-
 多智能体的chatbi: https://github.com/kaori-seasons/mutli-agent-bi
 
 
