@@ -4,6 +4,11 @@ I'm a bit of a weird programmer who thinks writing code is a fun thing to do.
 
  🔭 I’m currently working on Xiamen
 
+ Minicpm Ambassador
+
+ <img width="1440" height="1080" alt="62ed187ed81258335e0be9dabd8e0faa" src="https://github.com/user-attachments/assets/7480a461-d038-4660-b3cc-23b63bc9ccde" />
+
+
 👯 my blog after work:
 
 - juejin: https://juejin.cn/user/2875978147955741
